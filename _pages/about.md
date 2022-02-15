@@ -14,15 +14,7 @@ His research interests include Mobile Computing, Wireless Sensing, and Cyber Sec
 
 Publications
 ======
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Yili Ren, Zi Wang, Sheng Tan, Yingying Chen Jie Yang. “[Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi]”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2021), December 2021. top-tier [csrankings.org](http://csrankings.org/) conference.
 
 Getting started
 ======
