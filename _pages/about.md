@@ -18,16 +18,16 @@ Publications
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2021). top-tier [csrankings.org](http://csrankings.org/) conference.
 
-[Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment](https://yiliren.github.io/files/LiquidSense2020.pdf).
-**Yili Ren**, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang.
+[Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment](https://yiliren.github.io/files/LiquidSense2020.pdf).   
+**Yili Ren**, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020). top-tier [csrankings.org](http://csrankings.org/) conference. 
 
-[EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables](https://yiliren.github.io/files/EarDynamic2021.pdf).
-Zi Wang, Sheng Tan, Linghan Zhang, **Yili Ren**, Zhi Wang, and Jie Yang.
+[EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables](https://yiliren.github.io/files/EarDynamic2021.pdf).   
+Zi Wang, Sheng Tan, Linghan Zhang, **Yili Ren**, Zhi Wang, and Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (UbiComp 2021). top-tier [csrankings.org](http://csrankings.org/) conference. 
 
-[VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment](https://yiliren.github.io/files/VibLive2020.pdf)
-Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.
+[VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment](https://yiliren.github.io/files/VibLive2020.pdf).   
+Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.   
 36th Annual Computer Security Applications Conference (ACSAC 2020).
 
 Getting started
