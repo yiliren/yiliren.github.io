@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am is a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), supervised by Prof. [Jie Yang](https://www.cs.fsu.edu/~jieyang/).
+I am is a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), supervised by [Dr. Jie Yang](https://www.cs.fsu.edu/~jieyang/).
 
 My research interests include mobile computing and cybersecurity. Currently, I mainly focus on wireless sensing, earables sensing, user authentication, and human biometrics.
 
