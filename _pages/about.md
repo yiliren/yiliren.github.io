@@ -16,6 +16,12 @@ Publications
 ======
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen Jie Yang. “[Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf)”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2021). top-tier [csrankings.org](http://csrankings.org/) conference.
 
+**Yili Ren**, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang. “[Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment](https://yiliren.github.io/files/LiquidSense2020.pdf)”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020). top-tier [csrankings.org](http://csrankings.org/) conference. 
+
+Zi Wang, Sheng Tan, Linghan Zhang, **Yili Ren**, Zhi Wang, and Jie Yang, “EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables”, Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (UbiComp 2021). top-tier [csrankings.org](http://csrankings.org/) conference. 
+
+Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang, “VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment”, 36th Annual Computer Security Applications Conference (ACSAC 2020). 
+
 Getting started
 ======
 //: 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
