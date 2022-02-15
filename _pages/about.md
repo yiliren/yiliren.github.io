@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yili Ren is a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), supervised by Prof. [Jie Yang](https://www.cs.fsu.edu/~jieyang/).
+I am is a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), supervised by Prof. [Jie Yang](https://www.cs.fsu.edu/~jieyang/).
 
-His research interests include Mobile Computing, Wireless Sensing, and Cyber Security.
+My research interests include Mobile Computing, Wireless Sensing, and Cyber Security.
 
 Publications
 ======
