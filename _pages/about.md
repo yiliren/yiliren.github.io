@@ -30,6 +30,22 @@ Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computin
 Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.   
 36th Annual Computer Security Applications Conference (ACSAC 2020).
 
+[Tracking Free-form Activity Using WiFi Signals](https://yiliren.github.io/files/PosterWinect2021.pdf). (poster)   
+**Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen, Jie Yang.   
+The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
+
+[3D Human Pose Estimation Using WiFi Signals](https://yiliren.github.io/files/PosterGoPose2021.pdf.pdf). (poster)   
+**Yili Ren**, Zi Wang, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
+The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
+
+[Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/PosterToothSonic2021.pdf). (poster)   
+Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
+ACM Conference on Computer and Communications Security (CCS 2021)}. - top-tier [csrankings.org](http://csrankings.org/) conference.
+
+[An Ear Canal Deformation Based Continuous User Authentication Using Earables](https://yiliren.github.io/files/PosterEarDynamic2021.pdf). (poster)   
+Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
+The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
+
 Getting started
 ======
 //: 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
