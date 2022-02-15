@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yili Ren"
   avatar           : "mstile-150x150.png"
-  bio              : "Ph.D. candidate"
+  bio              : "Ph.D. candidate, Florida State University"
   location         : "Tallahassee, FL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en"
-  email            :
+  email            : "ren@cs.fsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yili-ren-181298179"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
