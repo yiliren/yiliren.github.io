@@ -12,6 +12,8 @@ I am is a Ph.D. candidate in the [Department of Computer Science](https://www.cs
 
 My research interests include Mobile Computing and Cybersecurity.
 
+Email: ren\[at\]cs.fsu.edu
+
 Research Interests
 ======
 Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, mobile healthcare.
