@@ -1,7 +1,7 @@
 ---
 title: "Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi"
 collection: publications
-permalink: http://yiliren.github.io/files/Winect2021.pdf
+permalink: 'http://yiliren.github.io/files/Winect2021.pdf'
 paperurl: 'http://yiliren.github.io/files/Winect2021.pdf'
 citation: 'Yili; <i>Journal 1</i>. 1(1).'
 ---
