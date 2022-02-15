@@ -14,7 +14,9 @@ His research interests include Mobile Computing, Wireless Sensing, and Cyber Sec
 
 Publications
 ======
-[Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf).   **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen Jie Yang.   Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2021). top-tier [csrankings.org](http://csrankings.org/) conference.
+[Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf).   
+**Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen Jie Yang.   
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2021). top-tier [csrankings.org](http://csrankings.org/) conference.
 
 [Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment](https://yiliren.github.io/files/LiquidSense2020.pdf).
 **Yili Ren**, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang.
