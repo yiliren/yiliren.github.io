@@ -10,7 +10,13 @@ redirect_from:
 
 I am is a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), supervised by Prof. [Jie Yang](https://www.cs.fsu.edu/~jieyang/).
 
-My research interests include Mobile Computing, Wireless Sensing, and Cyber Security.
+My research interests include Mobile Computing and Cybersecurity.
+
+Research Interests
+======
+Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, mobile healthcare.
+
+Cybersecurity: biometrics, user authentication, device identification, wireless security, and IoT security.
 
 Publications
 ======
@@ -69,7 +75,7 @@ CIS4403 Introduction to Computer Security, Spring 2021
 CGS2060 Computer Fluency, Fall 2018
 
 Services
-------
+======
 Reviewer for conferences: helped in reviewing papers of conferences, such as ICDCS 2022, ESORICS 2022, ASIACSS 2021, INFOCOM 2021, ACSAC 2021, CNS 2021, ESORICS 2021, DCOSS 2021/2020, WiSec 2021/2020, IWQoS 2021/2020, ICCCN 2021, MSN 2019.
 
 Reviewer for journals: helped in reviewing papers of journals, such as IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal, IEEE Transactions on Information Forensics and Security, IEEE Communications Letters
