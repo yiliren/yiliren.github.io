@@ -52,6 +52,10 @@ ACM Conference on Computer and Communications Security (CCS 2021)}. - top-tier [
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
 The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
+Media Coverage
+======
+[Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2021-11-winect-tracks-3d-human-poses.html).
+
 Teaching
 ======
 I serve as teaching assistant and guest lecturer in the following courses:
