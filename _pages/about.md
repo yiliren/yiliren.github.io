@@ -22,7 +22,7 @@ Cybersecurity: biometrics, user authentication, device identification, wireless 
 
 Publications
 ======
-[Google Scholar](https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pid/28/9860.html)
+\[[Google Scholar](https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en)\] \[[DBLP](https://dblp.uni-trier.de/pid/28/9860.html)\]
 
 [Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf).   
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen Jie Yang.   
