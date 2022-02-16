@@ -14,7 +14,7 @@ My research interests include mobile computing and cybersecurity. Currently, I m
 
 Email: ren\[at\]cs.fsu.edu
 
-Research Interests
+Research Interests [Google Scholar](https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pid/28/9860.html)
 ======
 Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, mobile healthcare.
 
