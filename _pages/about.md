@@ -18,7 +18,7 @@ Research Interests
 ======
 Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, mobile healthcare.
 
-Cybersecurity: biometrics, user authentication, device identification, wireless security, and IoT security.
+Cybersecurity: biometrics, user authentication, device identification, wireless security, IoT security.
 
 Publications
 ======
@@ -62,7 +62,7 @@ Media Coverage
 
 Teaching
 ======
-I serve as teaching assistant and guest lecturer in the following courses:
+I serve as a teaching assistant and guest lecturer in the following courses:
 
 CEN5526 Wireless and Mobile Computing, Spring 2022
 
