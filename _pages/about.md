@@ -14,13 +14,13 @@ My research interests include mobile computing and cybersecurity. Currently, I m
 
 Email: ren\[at\]cs.fsu.edu
 
-Research Interests [Google Scholar](https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pid/28/9860.html)
+Research Interests
 ======
 Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, mobile healthcare.
 
 Cybersecurity: biometrics, user authentication, device identification, wireless security, and IoT security.
 
-Publications
+Publications [Google Scholar](https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pid/28/9860.html)
 ======
 [Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf).   
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen Jie Yang.   
