@@ -43,7 +43,7 @@ Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computin
 Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.   
 36th Annual Computer Security Applications Conference (ACSAC 2020).
 
-Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities.
+Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities.    
 Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journal. (to appear)
 
 Other Publications
