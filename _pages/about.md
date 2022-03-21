@@ -50,7 +50,7 @@ The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys 2021). - to
 
 [Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/PosterToothSonic2021.pdf). (poster)   
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
-ACM Conference on Computer and Communications Security (CCS 2021)}. - top-tier [csrankings.org](http://csrankings.org/) conference.
+ACM Conference on Computer and Communications Security (CCS 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 [An Ear Canal Deformation Based Continuous User Authentication Using Earables](https://yiliren.github.io/files/PosterEarDynamic2021.pdf). (poster)   
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
@@ -86,7 +86,7 @@ Services
 ======
 Reviewer for conferences: helped in reviewing papers of conferences, such as ICDCS 2022, ESORICS 2022, ASIACSS 2021, INFOCOM 2021, ACSAC 2021, CNS 2021, ESORICS 2021, DCOSS 2021/2020, WiSec 2021/2020, IWQoS 2021/2020, ICCCN 2021, MSN 2019.
 
-Reviewer for journals: helped in reviewing papers of journals, such as IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal, IEEE Transactions on Information Forensics and Security, IEEE Communications Letters
+Reviewer for journals: IEEE Internet of Things Journal; also helped in reviewing papers of journals, such as IEEE Transactions on Mobile Computing, IEEE Transactions on Information Forensics and Security, IEEE Communications Letters.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=uqxtEr7WR6fTf0ihVmRe0nvbXHrvowsTWBzrh5e31Ac'></script>
 
