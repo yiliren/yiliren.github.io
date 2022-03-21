@@ -24,8 +24,11 @@ Publications
 ======
 \[[Google Scholar](https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en)\] \[[DBLP](https://dblp.uni-trier.de/pid/28/9860.html)\]
 
+Main Publications
+------
+
 [Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf).   
-**Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen Jie Yang.   
+**Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 [Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment](https://yiliren.github.io/files/LiquidSense2020.pdf).   
@@ -33,12 +36,18 @@ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technolog
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020). - top-tier [csrankings.org](http://csrankings.org/) conference. 
 
 [EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables](https://yiliren.github.io/files/EarDynamic2021.pdf).   
-Zi Wang, Sheng Tan, Linghan Zhang, **Yili Ren**, Zhi Wang, and Jie Yang.   
+Zi Wang, Sheng Tan, Linghan Zhang, **Yili Ren**, Zhi Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (UbiComp 2021). - top-tier [csrankings.org](http://csrankings.org/) conference. 
 
 [VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment](https://yiliren.github.io/files/VibLive2020.pdf).   
 Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.   
 36th Annual Computer Security Applications Conference (ACSAC 2020).
+
+Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities.
+Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journal. (to appear)
+
+Other Publications
+------
 
 [Tracking Free-form Activity Using WiFi Signals](https://yiliren.github.io/files/PosterWinect2021.pdf). (poster)   
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen, Jie Yang.   
