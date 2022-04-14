@@ -20,6 +20,12 @@ Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensi
 
 Cybersecurity: biometrics, user authentication, device identification, wireless security, IoT security.
 
+News
+======
+04/2022 Our work on "3D Human Pose Estimation Using WiFi" has been accepted by ACM UbiComp 2022.
+04/2022 Our work on "Earable Authentication via Acoustic Toothprint" has been accepted by ACM UbiComp 2022.
+04/2022 Our survey paper entitled "Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities" has been accepted by the IEEE Internet of Things Journal.
+
 Publications
 ======
 \[[Google Scholar](https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en)\] \[[DBLP](https://dblp.uni-trier.de/pid/28/9860.html)\]
