@@ -43,6 +43,9 @@ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technolog
 **Yili Ren**, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020). - top-tier [csrankings.org](http://csrankings.org/) conference. 
 
+[Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities.](https://yiliren.github.io/files/Commodity_WiFi_Sensing_in_10_Years_Status_Challenges_and_Opportunities.pdf)    
+Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journal.
+
 [EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables](https://yiliren.github.io/files/EarDynamic2021.pdf).   
 Zi Wang, Sheng Tan, Linghan Zhang, **Yili Ren**, Zhi Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (UbiComp 2021). - top-tier [csrankings.org](http://csrankings.org/) conference. 
@@ -50,9 +53,6 @@ Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computin
 [VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment](https://yiliren.github.io/files/VibLive2020.pdf).   
 Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.   
 36th Annual Computer Security Applications Conference (ACSAC 2020).
-
-[Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities.](https://yiliren.github.io/files/Commodity_WiFi_Sensing_in_10_Years_Status_Challenges_and_Opportunities.pdf)    
-Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journal.
 
 Other Publications
 ------
