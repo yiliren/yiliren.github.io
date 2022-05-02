@@ -22,6 +22,8 @@ Cybersecurity: biometrics, user authentication, device identification, wireless 
 
 News
 ======
+04/2022 I received the Graduate Student Research Award in the Department of Computer Science at Florida State University.
+
 04/2022 Our work on "3D Human Pose Estimation Using WiFi" has been accepted by ACM UbiComp 2022.
 
 04/2022 Our work on "Earable Authentication via Acoustic Toothprint" has been accepted by ACM UbiComp 2022.
