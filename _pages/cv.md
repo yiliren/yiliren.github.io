@@ -27,6 +27,7 @@ Work experience
   
 Awards
 ======
+* Graduate Student Research Award, Florida State University, 2022
 * Merit Scholarship, Beihang University, 2015-2016
 * Outstanding Graduate Award, Henan province, 2014
 * Merit Scholarship, Zhengzhou University, 2011-2014
