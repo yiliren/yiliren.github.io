@@ -63,7 +63,7 @@ Other Publications
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen, Jie Yang.   
 The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
-[3D Human Pose Estimation Using WiFi Signals](https://yiliren.github.io/files/PosterGoPose2021.pdf.pdf). (poster)   
+[3D Human Pose Estimation Using WiFi Signals](https://yiliren.github.io/files/PosterGoPose2021.pdf). (poster)   
 **Yili Ren**, Zi Wang, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
 The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
