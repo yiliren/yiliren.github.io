@@ -58,6 +58,9 @@ Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.
 
 Other Publications
 ------
+[Liquid Level Detection Using Wireless Signals](https://yiliren.github.io/files/PosterLiquid2022.pdf). (poster)   
+**Yili Ren**, Zi Wang, Beiyu Wang, Sheng Tan, Jie Yang.   
+The 20th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 [Tracking Free-form Activity Using WiFi Signals](https://yiliren.github.io/files/PosterWinect2021.pdf). (poster)   
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen, Jie Yang.   
