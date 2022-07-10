@@ -36,6 +36,9 @@ Publications
 
 Main Publications
 ------
+[GoPose: 3D Human Pose Estimation Using WiFi](https://yiliren.github.io/files/GoPose2022.pdf).   
+**Yili Ren**, Zi Wang, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 [Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf).   
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen, Jie Yang.   
@@ -45,12 +48,16 @@ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technolog
 **Yili Ren**, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020). - top-tier [csrankings.org](http://csrankings.org/) conference. 
 
-[Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities.](https://yiliren.github.io/files/Commodity_WiFi_Sensing_in_10_Years_Status_Challenges_and_Opportunities.pdf)    
-Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journal.
+[ToothSonic: Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/ToothSonic2022.pdf).   
+Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
+Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (UbiComp 2022). - top-tier [csrankings.org](http://csrankings.org/) conference. 
 
 [EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables](https://yiliren.github.io/files/EarDynamic2021.pdf).   
 Zi Wang, Sheng Tan, Linghan Zhang, **Yili Ren**, Zhi Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (UbiComp 2021). - top-tier [csrankings.org](http://csrankings.org/) conference. 
+
+[Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities.](https://yiliren.github.io/files/Commodity_WiFi_Sensing_in_10_Years_Status_Challenges_and_Opportunities.pdf)    
+Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journal.
 
 [VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment](https://yiliren.github.io/files/VibLive2020.pdf).   
 Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.   
