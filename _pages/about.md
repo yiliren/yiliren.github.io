@@ -87,7 +87,7 @@ The 27th Annual International Conference on Mobile Computing and Networking (Mob
 
 Media Coverage
 ======
-[Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2021-11-winect-tracks-3d-human-poses.html).
+[Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2021-11-winect-tracks-3d-human-poses.html), [News8Plus](https://news8plus.com/winect-a-system-that-tracks-3d-human-poses-during-free-form-motion/), [Lifeboat](https://lifeboat.com/blog/2021/11/winect-a-system-that-tracks-3d-human-poses-during-free-form-motion).
 
 Teaching
 ======
