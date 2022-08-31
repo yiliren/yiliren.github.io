@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2018-present: Research Assistant
+* 2017-present: Research Assistant
   * Florida State University
   * Supervisor: Dr. Jie Yang
 
