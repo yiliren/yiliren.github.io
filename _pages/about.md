@@ -89,7 +89,7 @@ Media Coverage
 ======
 [Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2021-11-winect-tracks-3d-human-poses.html), [News8Plus](https://news8plus.com/winect-a-system-that-tracks-3d-human-poses-during-free-form-motion/), [Lifeboat](https://lifeboat.com/blog/2021/11/winect-a-system-that-tracks-3d-human-poses-during-free-form-motion).
 
-[ToothSonic: Earable Authentication via Acoustic Toothprint]([https://yiliren.github.io/files/Winect2021.pdf](https://yiliren.github.io/files/ToothSonic2022.pdf)) was covered by: [Unite.AI](https://www.unite.ai/biometric-authentication-by-grinding-your-teeth/), [Gigazine](https://gigazine.net/gsc_news/en/20220419-toothprint-biometric-authentication/).
+[ToothSonic: Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/ToothSonic2022.pdf) was covered by: [Unite.AI](https://www.unite.ai/biometric-authentication-by-grinding-your-teeth/), [Gigazine](https://gigazine.net/gsc_news/en/20220419-toothprint-biometric-authentication/).
 
 Teaching
 ======
