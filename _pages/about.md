@@ -71,7 +71,7 @@ The 20th ACM International Conference on Mobile Systems, Applications, and Servi
 
 [Tracking Free-form Activity Using WiFi Signals](https://yiliren.github.io/files/PosterWinect2021.pdf). (poster)   
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen, Jie Yang.   
-The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
+The 27th Annual International Conference on Mobile Computing and Networking (MobiCom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 [3D Human Pose Estimation Using WiFi Signals](https://yiliren.github.io/files/PosterGoPose2021.pdf). (poster)   
 **Yili Ren**, Zi Wang, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
@@ -83,7 +83,7 @@ ACM Conference on Computer and Communications Security (CCS 2021). - top-tier [c
 
 [An Ear Canal Deformation Based Continuous User Authentication Using Earables](https://yiliren.github.io/files/PosterEarDynamic2021.pdf). (poster)   
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
-The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
+The 27th Annual International Conference on Mobile Computing and Networking (MobiCom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 Media Coverage
 ======
