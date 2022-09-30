@@ -99,17 +99,17 @@ CEN5526 Wireless and Mobile Computing, Spring 2022
 
 CNT5412 Network Security, Active and Passive Defenses, Fall 2021
 
+CIS4403 Introduction to Computer Security, Spring 2021
+
 COP4531 Complexity and Analysis of Data Structures and Algorithms, Fall 2018, Spring 2020
+
+CGS2930 Computer Security Basics, Fall 2018, Spring 2020
 
 CNT4406 Network Security and Cryptography, Fall 2019
 
 COP4020 Programming Languages, Fall 2019
 
-CGS2930 Computer Security Basics, Fall 2018, Spring 2020
-
 COP3014 Programming I, Fall 2018, Spring 2019
-
-CIS4403 Introduction to Computer Security, Spring 2021
 
 CGS2060 Computer Fluency, Fall 2018
 
