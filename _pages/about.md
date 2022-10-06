@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), supervised by [Dr. Jie Yang](https://www.cs.fsu.edu/~jieyang/). Prior to joining FSU, I received M.S. from the School of Electronics and Information Engineering at Beihang University.
 
-My research interests include mobile computing and cybersecurity.
+My research interests mainly include mobile computing and cybersecurity.
 
 Email: ren\[at\]cs.fsu.edu
 
