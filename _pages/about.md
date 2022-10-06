@@ -10,15 +10,15 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), supervised by [Dr. Jie Yang](https://www.cs.fsu.edu/~jieyang/). Prior to joining FSU, I received M.S. from the School of Electronics and Information Engineering at Beihang University.
 
-My research interests include mobile computing and cybersecurity. Currently, I mainly focus on wireless sensing, earables sensing, user authentication, and human biometrics.
+My research interests include mobile computing and cybersecurity.
 
 Email: ren\[at\]cs.fsu.edu
 
 Research Interests
 ======
-Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, mobile healthcare.
+Mobile Computing: Wireless System and Application, Human-Computer Interaction, Smart Home and Internet of Things.
 
-Cybersecurity: biometrics, user authentication, device identification, wireless security, IoT security.
+Cybersecurity: User Authentication, Biometrics, Smart Home and Internet of Things Security.
 
 News
 ======
