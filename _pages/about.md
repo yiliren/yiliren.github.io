@@ -32,7 +32,6 @@ News
 
 Publications
 ======
-#\[[Google Scholar](https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en)\] \[[DBLP](https://dblp.uni-trier.de/pid/28/9860.html)\]
 
 Main Publications
 ------
