@@ -22,6 +22,10 @@ Cybersecurity: User Authentication, Biometrics, Smart Home and Internet of Thing
 
 News
 ======
+10/2022 Our work on "Robust Person Re-identification Using WiFi" has been accepted by USENIX Security 2023.
+
+10/2022 Our work on "3D Human Mesh Construction Using WiFi" has been accepted by ACM Sensys 2022.
+
 04/2022 I received the Graduate Student Research Award in the Department of Computer Science at Florida State University.
 
 04/2022 Our work on "3D Human Pose Estimation Using WiFi" has been accepted by ACM UbiComp 2022.
