@@ -16,9 +16,9 @@ Email: ren\[at\]cs.fsu.edu
 
 Research Interests
 ======
-Mobile Computing: Wireless System and Application, Human-Computer Interaction, Smart Home and Internet of Things.
+Mobile Computing: Wireless Sensing Systems, Human-Computer Interaction Applications, Smart Home and Internet of Things Applications.
 
-Cybersecurity: User Authentication, Biometrics, Smart Home and Internet of Things Security.
+Cybersecurity: Mobile Authentication, Novel Biometrics, Smart Home and Internet of Things Security.
 
 News
 ======
