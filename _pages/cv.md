@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Florida State University, 2023 (expected)
-* M.S. in Traffic Information Engineering and Control, Beihang University, 2017
+* M.S. in Electronic and Information Engineering, Beihang University, 2017
 * B.S. in Electronic and Information Engineering, Zhengzhou University, 2014
 
 Work experience
