@@ -68,6 +68,14 @@ Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journa
 Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.   
 36th Annual Computer Security Applications Conference (ACSAC 2020).
 
+Privacy-preserving Identity-based File Sharing in Smart City.   
+Xiling Luo, **Yili Ren**, Jiankun Hu, Qianhong Wu, Jungang Lou.   
+Personal and Ubiquitous Computing, 2017.
+
+Identity-based Group Encryption.   
+Xiling Luo, **Yili Ren**, Jingwen Liu, Jiankun Hu, Weiran Liu, Zhen Wang, Wei Xu, Qianhong Wu.   
+The 21st Australasian Conference on Information Security and Privacy (ACISP 2016).
+
 Other Publications
 ------
 [Liquid Level Detection Using Wireless Signals](https://yiliren.github.io/files/PosterLiquid2022.pdf). (poster)   
