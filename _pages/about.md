@@ -61,7 +61,7 @@ Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computin
 Zi Wang, Sheng Tan, Linghan Zhang, **Yili Ren**, Zhi Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (UbiComp 2021). - top-tier [csrankings.org](http://csrankings.org/) conference. 
 
-[Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities.](https://yiliren.github.io/files/Commodity_WiFi_Sensing_in_10_Years_Status_Challenges_and_Opportunities.pdf)    
+[Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities](https://yiliren.github.io/files/Commodity_WiFi_Sensing_in_10_Years_Status_Challenges_and_Opportunities.pdf).    
 Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journal, 2022.
 
 [VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment](https://yiliren.github.io/files/VibLive2020.pdf).   
