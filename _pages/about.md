@@ -66,7 +66,7 @@ Sheng Tan, **Yili Ren**, Yingying Chen, Jie Yang. IEEE Internet of Things Journa
 
 [VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment](https://yiliren.github.io/files/VibLive2020.pdf).   
 Linghan Zhang, Sheng Tan, Zi Wang, **Yili Ren**, Zhi Wang, Jie Yang.   
-36th Annual Computer Security Applications Conference (ACSAC 2020).
+The 36th Annual Computer Security Applications Conference (ACSAC 2020).
 
 Privacy-preserving Identity-based File Sharing in Smart City.   
 Xiling Luo, **Yili Ren**, Jiankun Hu, Qianhong Wu, Jungang Lou.   
