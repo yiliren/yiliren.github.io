@@ -49,6 +49,10 @@ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technolog
 **Yili Ren**, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020). - top-tier [csrankings.org](http://csrankings.org/) conference. 
 
+Towards Certificate-based Group Encryption.   
+**Yili Ren**, Xiling Luo, Qianhong Wu, Joseph K. Liu, Peng Zhang.   
+The 10th International Conference on Provable Security (ProvSec 2016).
+
 [ToothSonic: Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/ToothSonic2022.pdf).   
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (UbiComp 2022). - top-tier [csrankings.org](http://csrankings.org/) conference. 
