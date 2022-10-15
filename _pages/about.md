@@ -41,7 +41,7 @@ Main Publications
 ------
 Person Re-identification in 3D Space: A WiFi Vision-based Approach.   
 **Yili Ren**, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
-32th USENIX Security Symposium (USENIX Security 2023). - top-tier [csrankings.org](http://csrankings.org/) conference.
+The 32nd USENIX Security Symposium (USENIX Security 2023). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction.   
 Yichao Wang*, Yili Ren*, Yingying Chen, Jie Yang.   
