@@ -104,6 +104,13 @@ Media Coverage
 
 [ToothSonic: Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/ToothSonic2022.pdf) was covered by: [Unite.AI](https://www.unite.ai/biometric-authentication-by-grinding-your-teeth/), [Gigazine](https://gigazine.net/gsc_news/en/20220419-toothprint-biometric-authentication/), etc.
 
+Awards
+======
+* Graduate Student Research Award, Florida State University, 2022
+* Merit Scholarship, Beihang University, 2015-2016
+* Outstanding Graduate Award, Henan province, 2014
+* Merit Scholarship, Zhengzhou University, 2011-2014
+
 Teaching
 ======
 I serve as a teaching assistant and guest lecturer in the following courses:
