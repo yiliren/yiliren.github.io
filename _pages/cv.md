@@ -24,10 +24,4 @@ Work experience
 * 2014-2017: Research Assistant
   * Beihang University
   * Supervisor: Dr. Xiling Luo
-  
-Awards
-======
-* Graduate Student Research Award, Florida State University, 2022
-* Merit Scholarship, Beihang University, 2015-2016
-* Outstanding Graduate Award, Henan province, 2014
-* Merit Scholarship, Zhengzhou University, 2011-2014
+ 
