@@ -22,6 +22,8 @@ Cybersecurity: Mobile Authentication, Novel Biometrics, Smart Home and Internet 
 
 News
 ======
+10/2022 Our work on "3D Human Mess Construction using WiFi" has been accepted by ACM SenSys 2022.
+
 10/2022 Our work on "Robust Person Re-identification Using WiFi" has been accepted by USENIX Security 2023.
 
 04/2022 I received the Graduate Student Research Award in the Department of Computer Science at Florida State University.
@@ -37,6 +39,14 @@ Publications
 
 Main Publications
 ------
+Person Re-identification in 3D Space: A WiFi Vision-based Approach.   
+**Yili Ren**, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
+32th USENIX Security Symposium (USENIX Security 2023). - top-tier [csrankings.org](http://csrankings.org/) conference.
+
+Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction.   
+Yichao Wang*, Yili Ren*, Yingying Chen, Jie Yang.   
+The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022). - top-tier [csrankings.org](http://csrankings.org/) conference. (*co-first authors)
+
 [GoPose: 3D Human Pose Estimation Using WiFi](https://yiliren.github.io/files/GoPose2022.pdf).   
 **Yili Ren**, Zi Wang, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
