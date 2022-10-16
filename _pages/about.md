@@ -44,7 +44,7 @@ Person Re-identification in 3D Space: A WiFi Vision-based Approach.
 The 32nd USENIX Security Symposium (USENIX Security 2023). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction.   
-Yichao Wang*, Yili Ren*, Yingying Chen, Jie Yang.   
+Yichao Wang, Yili Ren, Yingying Chen, Jie Yang.   
 The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022). - top-tier [csrankings.org](http://csrankings.org/) conference. (*co-first authors)
 
 [GoPose: 3D Human Pose Estimation Using WiFi](https://yiliren.github.io/files/GoPose2022.pdf).   
