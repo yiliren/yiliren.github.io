@@ -88,9 +88,21 @@ The 21st Australasian Conference on Information Security and Privacy (ACISP 2016
 
 Other Publications
 ------
+A Vision-based Approach for Commodity WiFi Sensing. (poster)   
+**Yili Ren**, Yichao Wang, Yingying Chen, Jie Yang.   
+The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
+
+A WiFi Vision-based Approach to Person Re-identification. (poster)   
+**Yili Ren**, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
+The ACM Conference on Computer and Communications Security (CCS 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
+
 [Liquid Level Detection Using Wireless Signals](https://yiliren.github.io/files/PosterLiquid2022.pdf). (poster)   
 **Yili Ren**, Zi Wang, Beiyu Wang, Sheng Tan, Jie Yang.   
 The 20th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
+
+Person Re-Identification Using WiFi Signals. (poster)   
+**Yili Ren**, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
+The 28th Annual International Conference on Mobile Computing and Networking (MobiCom 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 [Tracking Free-form Activity Using WiFi Signals](https://yiliren.github.io/files/PosterWinect2021.pdf). (poster)   
 **Yili Ren**, Zi Wang, Sheng Tan, Yingying Chen, Jie Yang.   
@@ -99,6 +111,10 @@ The 27th Annual International Conference on Mobile Computing and Networking (Mob
 [3D Human Pose Estimation Using WiFi Signals](https://yiliren.github.io/files/PosterGoPose2021.pdf). (poster)   
 **Yili Ren**, Zi Wang, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
 The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
+
+A WiFi Vision-based 3D Human Mesh Reconstruction. (poster)   
+Yichao Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
+The 28th Annual International Conference on Mobile Computing and Networking (MobiCom 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 [Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/PosterToothSonic2021.pdf). (poster)   
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
