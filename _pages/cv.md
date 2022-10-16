@@ -15,7 +15,7 @@ Education
 * M.S. in Transportation Information Engineering and Control, Beihang University, 2017
 * B.S. in Electronic and Information Engineering, Zhengzhou University, 2014
 
-Work experience
+Work Experience
 ======
 * 2017-present: Research Assistant
   * Florida State University
