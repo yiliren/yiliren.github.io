@@ -14,6 +14,8 @@ My research interests mainly include mobile computing and cybersecurity.
 
 Email: ren\[at\]cs.fsu.edu
 
+**I am on the academic job market this year.**
+
 Research Interests
 ======
 Mobile Computing: Wireless Sensing Systems, Human-Computer Interaction Applications, Smart Home and Internet of Things Applications.
