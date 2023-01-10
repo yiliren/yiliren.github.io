@@ -24,7 +24,7 @@ Cybersecurity: Mobile Authentication, Novel Biometrics, Smart Home and Internet 
 
 News
 ======
-10/2022 Our work on "3D Human Mess Construction using WiFi" has been accepted by ACM SenSys 2022.
+10/2022 Our work on "3D Human Mesh Construction using WiFi" has been accepted by ACM SenSys 2022.
 
 10/2022 Our work on "Robust Person Re-identification Using WiFi" has been accepted by USENIX Security 2023.
 
