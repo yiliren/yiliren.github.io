@@ -86,7 +86,7 @@ author:
   location         : "Tallahassee, FL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en"
   email            : "ren@cs.fsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
