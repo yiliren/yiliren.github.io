@@ -41,11 +41,11 @@ Publications
 
 Main Publications
 ------
-Person Re-identification in 3D Space: A WiFi Vision-based Approach.   
+[Person Re-identification in 3D Space: A WiFi Vision-based Approach](https://yiliren.github.io/files/3D-ID2022.pdf).   
 **Yili Ren**, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
 The 32nd USENIX Security Symposium (USENIX Security 2023). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
-Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction.   
+[Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction](https://yiliren.github.io/files/Wi-Mesh2022.pdf).   
 Yichao Wang\*, **Yili Ren**\*, Yingying Chen, Jie Yang.   
 The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022). - top-tier [csrankings.org](http://csrankings.org/) conference. (\*co-first authors)
 
