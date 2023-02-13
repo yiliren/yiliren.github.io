@@ -24,6 +24,8 @@ Cybersecurity: Mobile Authentication, Novel Biometrics, Smart Home and Internet 
 
 News
 ======
+02/2023 Our work on "3D Human Mesh Construction using WiFi" was covered by: [Tech Xplore](https://techxplore.com/news/2023-02-wi-fi-3d-human-meshes.html), News8Plus, etc.
+
 10/2022 Our work on "3D Human Mesh Construction using WiFi" has been accepted by ACM SenSys 2022.
 
 10/2022 Our work on "Robust Person Re-identification Using WiFi" has been accepted by USENIX Security 2023.
@@ -131,6 +133,8 @@ Media Coverage
 [Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2021-11-winect-tracks-3d-human-poses.html), [News8Plus](https://news8plus.com/winect-a-system-that-tracks-3d-human-poses-during-free-form-motion/), [Lifeboat](https://lifeboat.com/blog/2021/11/winect-a-system-that-tracks-3d-human-poses-during-free-form-motion), etc.
 
 [ToothSonic: Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/ToothSonic2022.pdf) was covered by: [Unite.AI](https://www.unite.ai/biometric-authentication-by-grinding-your-teeth/), [Gigazine](https://gigazine.net/gsc_news/en/20220419-toothprint-biometric-authentication/), etc.
+
+[Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction](https://yiliren.github.io/files/Wi-Mesh2022.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2023-02-wi-fi-3d-human-meshes.html), [News8Plus](https://news8plus.com/a-wi-fi-sensing-system-that-creates-3d-human-meshes/), etc.
 
 Awards
 ======
