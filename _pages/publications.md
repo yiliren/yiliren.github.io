@@ -91,11 +91,3 @@ ACM Conference on Computer and Communications Security (CCS 2021). - top-tier [c
 [An Ear Canal Deformation Based Continuous User Authentication Using Earables](https://yiliren.github.io/files/PosterEarDynamic2021.pdf). (poster)   
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
 The 27th Annual International Conference on Mobile Computing and Networking (MobiCom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
-
-Media Coverage
-======
-[Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi](https://yiliren.github.io/files/Winect2021.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2021-11-winect-tracks-3d-human-poses.html), [News8Plus](https://news8plus.com/winect-a-system-that-tracks-3d-human-poses-during-free-form-motion/), [Lifeboat](https://lifeboat.com/blog/2021/11/winect-a-system-that-tracks-3d-human-poses-during-free-form-motion), etc.
-
-[ToothSonic: Earable Authentication via Acoustic Toothprint](https://yiliren.github.io/files/ToothSonic2022.pdf) was covered by: [Unite.AI](https://www.unite.ai/biometric-authentication-by-grinding-your-teeth/), [Gigazine](https://gigazine.net/gsc_news/en/20220419-toothprint-biometric-authentication/), etc.
-
-[Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction](https://yiliren.github.io/files/Wi-Mesh2022.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2023-02-wi-fi-3d-human-meshes.html), [News8Plus](https://news8plus.com/a-wi-fi-sensing-system-that-creates-3d-human-meshes/), etc.
