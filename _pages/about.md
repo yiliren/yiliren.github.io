@@ -146,7 +146,7 @@ Outstanding Graduate Award, Henan province, 2014
 
 Merit Scholarship, Zhengzhou University, 2011-2014
 
-<!---
+{% comment %}
 Teaching
 ======
 I serve as a teaching assistant and guest lecturer in the following courses:
@@ -168,7 +168,7 @@ COP4020 Programming Languages, Fall 2019
 COP3014 Programming I, Fall 2018, Spring 2019
 
 CGS2060 Computer Fluency, Fall 2018
--->
+{% endcomment %}
 
 Services
 ======
