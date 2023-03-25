@@ -38,6 +38,7 @@ News
 
 04/2022 Our survey paper entitled "Commodity WiFi Sensing in 10 Years: Status, Challenges, and Opportunities" has been accepted by the IEEE Internet of Things Journal.
 
+{% comment %}
 Publications
 ======
 
@@ -127,6 +128,7 @@ ACM Conference on Computer and Communications Security (CCS 2021). - top-tier [c
 [An Ear Canal Deformation Based Continuous User Authentication Using Earables](https://yiliren.github.io/files/PosterEarDynamic2021.pdf). (poster)   
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
 The 27th Annual International Conference on Mobile Computing and Networking (MobiCom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
+{% endcomment %}
 
 Media Coverage
 ======
@@ -136,6 +138,7 @@ Media Coverage
 
 [Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction](https://yiliren.github.io/files/Wi-Mesh2022.pdf) was covered by: [Tech Xplore](https://techxplore.com/news/2023-02-wi-fi-3d-human-meshes.html), [News8Plus](https://news8plus.com/a-wi-fi-sensing-system-that-creates-3d-human-meshes/), etc.
 
+{% comment %}
 Awards
 ======
 Graduate Student Research Award, Florida State University, 2022
@@ -146,7 +149,6 @@ Outstanding Graduate Award, Henan province, 2014
 
 Merit Scholarship, Zhengzhou University, 2011-2014
 
-{% comment %}
 Teaching
 ======
 I serve as a teaching assistant and guest lecturer in the following courses:
