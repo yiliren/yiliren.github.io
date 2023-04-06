@@ -7,13 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:blue">
-**I will be joining the Department of Computer Science and Engineering (CSE) at the University of South Florida (USF) as an Assistant Professor in Fall 2023.** 
-</span>
+<span style="color:blue">some **I will be joining the Department of Computer Science and Engineering (CSE) at the University of South Florida (USF) as an Assistant Professor in Fall 2023.** text</span>
 
-<span style="color:blue">
-**I am looking for self-motivated Ph.D. students to join my group in Fall 2023. If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe will help support your application.**
-</span>
+<span style="color:blue">some **I am looking for self-motivated Ph.D. students to join my group in Fall 2023. If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe will help support your application.** text</span>
 
 I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University](https://www.fsu.edu/), supervised by [Dr. Jie Yang](https://www.cs.fsu.edu/~jieyang/). Prior to joining FSU, I received M.S. from the School of Electronics and Information Engineering at Beihang University.
 
