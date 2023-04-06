@@ -9,7 +9,7 @@ redirect_from:
 ---
 <span style="color:blue"> I will be joining the [Department of Computer Science and Engineering (CSE)](https://www.usf.edu/engineering/cse/) at the [University of South Florida (USF)](https://www.usf.edu/) as an Assistant Professor in Fall 2023. </span>
 
-<span style="color:blue"> I am looking for self-motivated Ph.D. students to join my group in Fall 2023 and Spring 2024. If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application. </span>
+<span style="color:blue"> I am looking for self-motivated Ph.D. students to join my group. If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application. </span>
 
 I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University (FSU)](https://www.fsu.edu/), supervised by [Dr. Jie Yang](https://www.cs.fsu.edu/~jieyang/). Prior to joining FSU, I received M.S. from the School of Electronics and Information Engineering at Beihang University.
 
