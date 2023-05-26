@@ -11,7 +11,7 @@ redirect_from:
 
 <span style="color:blue"> I am looking for self-motivated Ph.D. students to join my group. If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application. </span>
 
-I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University (FSU)](https://www.fsu.edu/), supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/). Prior to joining FSU, I received M.S. from the School of Electronics and Information Engineering at Beihang University.
+I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University (FSU)](https://www.fsu.edu/), supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/). Prior to joining FSU, I received M.S. from the School of Electronics and Information Engineering at Beihang University.
 
 My research interests mainly include mobile computing and cybersecurity.
 
