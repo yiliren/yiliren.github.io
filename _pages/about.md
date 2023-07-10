@@ -15,7 +15,7 @@ I received my Ph.D. degree from the [Department of Computer Science](https://www
 
 My research interests mainly include mobile computing and cybersecurity.
 
-Email: ren\[at\]cs.fsu.edu
+Email: yiliren[at\]usf.edu
 
 Research Interests
 ======
