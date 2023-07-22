@@ -23,7 +23,6 @@ Work Experience
 
 * 2014-2017: Research Assistant
   * Beihang University
-  * Supervisor: Dr. Xiling Luo
  
 Awards
 ======
