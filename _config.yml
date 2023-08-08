@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yili Ren"
   avatar           : "yili.jpg"
-  bio              : "Incoming Assistant Professor, University of South Florida"
-  location         : "Tallahassee, FL"
+  bio              : "Assistant Professor, University of South Florida"
+  location         : "Tampa, FL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qk1kc00AAAAJ&hl=en"
-  email            : "ren@cs.fsu.edu"
+  email            : "yiliren@usf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
