@@ -17,6 +17,9 @@ Education
 
 Work Experience
 ======
+* 2023-present: Assistant Professor
+  * University of South Florida
+
 * 2017-2023: Research Assistant
   * Florida State University
   * Supervisor: Dr. Jie Yang
