@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:blue">Openings: I am looking for self-motivated Ph.D. students to join my group. Candidates with research experiences in wireless sensing, network/mobile systems, signal processing, machine learning, and cybersecurity will be given favorable consideration. If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application. </span>
+<span style="color:blue"> I am looking for self-motivated Ph.D. students to join my group. Candidates with research experiences in wireless sensing, network/mobile systems, signal processing, machine learning, and cybersecurity will be given favorable consideration. If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application. </span>
 
 I am a tenure-track Assistant Professor in the [Department of Computer Science and Engineering (CSE)](https://www.usf.edu/engineering/cse/) at the [University of South Florida (USF)](https://www.usf.edu/).
 
