@@ -187,7 +187,7 @@ Services
 ======
 Reviewer for conferences: MobileHCI 2023, CSAE 2023; also helped in reviewing papers of conferences, such as MobiSys 2023, USENIX Security 2023, ICDCS 2022, ESORICS 2022/2021, ASIACSS 2023/2022/2021, INFOCOM 2022/2021, ACSAC 2021, CNS 2022/2021, DCOSS 2021/2020, WiSec 2021/2020, IWQoS 2021/2020, ICCCN 2021, MSN 2019.
 
-Reviewer for journals: ACM Transactions on Sensor Networks, IEEE Transactions on Information Forensics and Security, Journal of Computational Design and Engineering, IMWUT/UbiComp, IEEE Sensors Journal, IEEE Transactions on Artificial Intelligence, IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Dependable and Secure Computing, IEEE Internet of Things Journal; also helped in reviewing papers of journals, such as IEEE Transactions on Information Forensics and Security, IEEE Communications Letters.
+Reviewer for journals: IEEE Journal on Selected Areas in Communications - Positioning and Sensing Over Wireless Networks, ACM Transactions on Sensor Networks, IEEE Transactions on Information Forensics and Security, Journal of Computational Design and Engineering, IMWUT/UbiComp, IEEE Sensors Journal, IEEE Transactions on Artificial Intelligence, IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Dependable and Secure Computing, IEEE Internet of Things Journal; also helped in reviewing papers of journals, such as IEEE Transactions on Information Forensics and Security, IEEE Communications Letters.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=uqxtEr7WR6fTf0ihVmRe0nvbXHrvowsTWBzrh5e31Ac'></script>
 
