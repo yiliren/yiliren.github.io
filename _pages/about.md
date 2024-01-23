@@ -31,6 +31,8 @@ Cybersecurity: Mobile Authentication, Novel Biometrics, Smart Home and Internet 
 
 News
 ======
+01/2024 I served as Technical Program Committee member of INFOCOM 2024 Poster.
+
 08/2023 I joined the Department of Computer Science and Engineering at the University of South Florida!
 
 05/2023 I defended my Ph.D. dissertation!
