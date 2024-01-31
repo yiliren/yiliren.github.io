@@ -33,6 +33,8 @@ News
 ======
 01/2024 I served as Technical Program Committee member of INFOCOM 2024 Poster.
 
+01/2024 Our work on "Multi-person 3D Human Mesh Estimation using WiFi" has been accepted by IMWUT/UbiComp.
+
 08/2023 I joined the Department of Computer Science and Engineering at the University of South Florida!
 
 05/2023 I defended my Ph.D. dissertation!
