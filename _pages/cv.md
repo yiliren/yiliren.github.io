@@ -22,11 +22,7 @@ Work Experience
 
 * 2017-2023: Research Assistant
   * Florida State University
-  * Supervisor: Dr. Jie Yang
 
-* 2014-2017: Research Assistant
-  * Beihang University
- 
 Awards
 ======
 Graduate Student Research Award, Florida State University, 2022
