@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV]"(https://yiliren.github.io/files/Yili%20Ren_CV_01-30-2024.pdf)
+title: "CV"[link](https://yiliren.github.io/files/Yili%20Ren_CV_01-30-2024.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
