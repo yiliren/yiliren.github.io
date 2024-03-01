@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"[link](https://yiliren.github.io/files/Yili%20Ren_CV_01-30-2024.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -32,3 +32,6 @@ Merit Scholarship, Beihang University, 2015-2016
 Outstanding Graduate Award, Henan Province, 2014
 
 Merit Scholarship, Zhengzhou University, 2011-2014
+
+[Curriculum Vitae](https://yiliren.github.io/files/Yili_Ren_CV_01-30-2024.pdf)
+======
