@@ -33,5 +33,4 @@ Outstanding Graduate Award, Henan Province, 2014
 
 Merit Scholarship, Zhengzhou University, 2011-2014
 
-[Curriculum Vitae](https://yiliren.github.io/files/Yili_Ren_CV_01-30-2024.pdf)
 ======
