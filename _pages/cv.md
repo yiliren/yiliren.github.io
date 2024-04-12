@@ -33,4 +33,3 @@ Outstanding Graduate Award, Henan Province, 2014
 
 Merit Scholarship, Zhengzhou University, 2011-2014
 
-======
