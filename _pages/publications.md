@@ -7,6 +7,9 @@ author_profile: true
 
 Main Publications
 ------
+SpaceBeat: Identity-aware Multi-person Vital Signs Monitoring Using Commodity WiFi.   
+Bofan Li, **Yili Ren**, Yichao Wang, Jie Yang.   
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
 Multi-Subject 3D Human Mesh Construction Using Commodity WiFi.   
 Yichao Wang, **Yili Ren**, Jie Yang.   
