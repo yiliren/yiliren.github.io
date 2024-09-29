@@ -18,5 +18,3 @@ Students
 **Jingzhe Zhang**     
 B.S. Northeastern University (China)
 
-
-
