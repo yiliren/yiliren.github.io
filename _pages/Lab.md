@@ -10,7 +10,7 @@ Ubiquitous Computing and Cybersecurity (UbiSec) Lab
 
 Director
 ------
-**Yili Ren**, Ph.D.
+**Yili Ren**, Ph.D.     
 Assistant Professor
 
 Students
