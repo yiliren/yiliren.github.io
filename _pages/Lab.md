@@ -5,7 +5,7 @@ permalink: /Lab/
 author_profile: true
 ---
 
-Ubiquitous Computing and Cybersecurity (UbiSec) Lab
+**Ubi**quitous Computing and Cyber**sec**urity (UbiSec) Lab
 ------
 
 Director
