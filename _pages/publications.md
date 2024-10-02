@@ -100,4 +100,8 @@ ACM Conference on Computer and Communications Security (CCS 2021). - top-tier [c
 Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
 The 27th Annual International Conference on Mobile Computing and Networking (MobiCom 2021). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
+Excerpt of ToothSonic: Earable Authentication via Acoustic Toothprint. (poster)   
+Zi Wang, **Yili Ren**, Yingying Chen, Jie Yang.   
+UbiComp/ISWC '22 Adjunct: Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers.
+
 
