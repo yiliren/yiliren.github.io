@@ -21,7 +21,7 @@ Openings
 
 <span style="color:blue"> Candidates with research experiences in wireless sensing, network/mobile systems, signal processing, machine learning, and cybersecurity will be given favorable consideration. </span>
 
-<span style="color:blue"> If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application. </span>
+<span style="color:blue"> If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL scores, and any other relevant materials that you believe would support your application. </span>
 
 Research Interests
 ======
