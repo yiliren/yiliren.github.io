@@ -15,6 +15,6 @@ Assistant Professor
 
 Students
 ------
-**Jingzhe Zhang**     
+**Jingzhe Zhang** (2024 – Present)     
 B.S. Northeastern University (China)
 
