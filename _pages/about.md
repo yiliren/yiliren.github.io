@@ -193,7 +193,7 @@ CGS2060 Computer Fluency, Fall 2018
 
 Services
 ======
-Technical Program Committee (TPC) Membership: IEEE INFOCOM 2024 Poster, ICNC 2025
+Technical Program Committee (TPC) Membership: IEEE Conference on Computer Communications (INFOCOM) 2024 Poster, 2025 International Conference on Computing, Networking and Communications (ICNC): AI and Machine Learning for Communications and Networking
 
 Reviewer for journals: Computer Networks: The International Journal of Computer and Telecommunications Networking, ACM Transactions on Computing for Healthcare, IEEE Transactions on Computers, Journal of the International Measurement Confederation, IEEE Journal on Selected Areas in Communications - Positioning and Sensing Over Wireless Networks, ACM Transactions on Sensor Networks, IEEE Transactions on Information Forensics and Security, Journal of Computational Design and Engineering, IMWUT/UbiComp, IEEE Sensors Journal, IEEE Transactions on Artificial Intelligence, IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Dependable and Secure Computing, IEEE Internet of Things Journal, Sensors; also helped in reviewing papers of journals, such as IEEE Transactions on Information Forensics and Security, IEEE Communications Letters.
 
