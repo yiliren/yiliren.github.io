@@ -31,7 +31,9 @@ Cybersecurity: Mobile Authentication, Person Identification, Novel Biometrics, S
 
 News
 ======
-11/2024 I served on the TPC for ICNC 2025 AMCN.
+12/2024 I served as TPC member for IEEE INFOCOM 2025 Poster.
+
+11/2024 I served as TPC member for ICNC 2025 AMCN.
 
 07/2024 Our work on "WiFi-based Vital Signs Monitoring" has been accepted by IMWUT/UbiComp.
 
