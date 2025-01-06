@@ -16,6 +16,13 @@ Assistant Professor
 
 Students
 ------
+
+Ph.D. Students
+------
 **Jingzhe Zhang** (2024 – Present)     
-B.S. Northeastern University (China)
+B.S. Northeastern University (China)      
+
+**Yitong Shen** (2025 – Present)     
+M.S. University of Washington      
+B.S. University of Minnesota, Twin Cities
 
