@@ -31,6 +31,8 @@ Cybersecurity: Mobile Authentication, Person Identification, Novel Biometrics, S
 
 News
 ======
+02/2025 Our work "[Wi-Chat: Large Language Model Powered Wi-Fi Sensing](https://arxiv.org/abs/2502.12421)" is now available on arXiv.
+
 01/2025 I served as TPC member for INFOCOM DeepWireless 2025.
 
 12/2024 I served as TPC member for IEEE INFOCOM 2025 Poster.
