@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Preprints
+------
+[Wi-Chat: Large Language Model Powered Wi-Fi Sensing](https://arxiv.org/abs/2502.12421)
+Haopeng Zhang\*, **Yili Ren**\*, Haohan Yuan, Jingzhe Zhang, Yitong Shen.      
+arXiv preprint arXiv:2502.12421. (\*co-first authors)      
 
 Main Publications
 ------
