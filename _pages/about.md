@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a tenure-track Assistant Professor in the [Department of Computer Science and Engineering (CSE)](https://www.usf.edu/engineering/cse/) at the [University of South Florida (USF)](https://www.usf.edu/).
+I am a tenure-track Assistant Professor in the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/index.aspx) at the [University of South Florida (USF)](https://www.usf.edu/).
 
 I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University (FSU)](https://www.fsu.edu/), supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/). Prior to joining FSU, I received M.S. from the School of Electronics and Information Engineering at Beihang University.
 
