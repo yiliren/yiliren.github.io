@@ -20,7 +20,7 @@ Multi-Subject 3D Human Mesh Construction Using Commodity WiFi.
 Yichao Wang, **Yili Ren**, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
-[Person Re-identification in 3D Space: A WiFi Vision-based Approach](https://yiliren.github.io/files/3D-ID2022.pdf).   
+[Person Re-identification in 3D Space: A WiFi Vision-based Approach](https://yiliren.github.io/files/usenixsecurity23-ren.pdf).   
 **Yili Ren**, Yichao Wang, Sheng Tan, Yingying Chen, Jie Yang.   
 The 32nd USENIX Security Symposium (USENIX Security 2023). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
