@@ -25,7 +25,7 @@ Email: jingzhe[at]usf.edu
 
 **Yitong (Thomas) Shen** (2025 – Present)     
 M.S. University of Washington      
-B.S. University of Minnesota, Twin Cities
+B.S. University of Minnesota, Twin Cities       
 Email: shen202[at]usf.edu      
 
 
