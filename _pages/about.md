@@ -51,8 +51,6 @@ News
 
 08/2023 I joined the Department of Computer Science and Engineering at the University of South Florida!
 
-05/2023 I defended my Ph.D. dissertation!
-
 02/2023 Our work on "3D Human Mesh Construction using WiFi" was covered by: [Tech Xplore](https://techxplore.com/news/2023-02-wi-fi-3d-human-meshes.html), News8Plus, etc.
 
 10/2022 Our work on "3D Human Mesh Construction using WiFi" has been accepted by ACM SenSys 2022.
