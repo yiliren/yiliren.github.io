@@ -209,6 +209,7 @@ Technical Program Committee (TPC) Membership:
 * 2025 International Conference on Computing, Networking and Communications (ICNC): AI and Machine Learning for Communications and Networking
 
 Reviewer for journals: 
+* IEEE Transactions on Sustainable Computing
 * IEEE Signal Processing Letters
 * Computer Networks: The International Journal of Computer and Telecommunications Networking
 * ACM Transactions on Computing for Healthcare
