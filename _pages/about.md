@@ -31,6 +31,8 @@ Cybersecurity: Mobile Authentication, Person Identification, Novel Biometrics, S
 
 News
 ======
+04/2025 I serve as a panelist for NSF CISE MSI-CNS.
+
 03/2025 I served as TPC member for IEEE WF-IoT 2025.
 
 02/2025 Our work "[Wi-Chat: Large Language Model Powered Wi-Fi Sensing](https://arxiv.org/abs/2502.12421)" is now available on arXiv.
