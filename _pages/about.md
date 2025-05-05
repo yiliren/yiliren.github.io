@@ -11,8 +11,6 @@ I am a tenure-track Assistant Professor in the [Bellini College of Artificial In
 
 I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.fsu.edu/) at [Florida State University (FSU)](https://www.fsu.edu/), supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/). Prior to joining FSU, I received M.S. from the School of Electronics and Information Engineering at Beihang University.
 
-My research interests mainly include mobile computing and cybersecurity.
-
 Email: yiliren[at\]usf.edu
 
 Openings
