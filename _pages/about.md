@@ -25,9 +25,13 @@ Openings
 
 Research Interests
 ======
-Mobile Computing: AI/LLM + Wireless, Wireless Sensing, Mobile Healthcare, Human-Computer Interaction Applications, Smart Home and Internet of Things (IoT) Applications.
-
-Cybersecurity: Mobile Authentication, Person Identification, Novel Biometrics, Smart Home and Internet of Things (IoT) Security.
+* AI/LLM + Mobile Computing and Sensing
+* Wireless Sensing
+* Mobile Healthcare
+* Human-Computer Interaction Applications
+* Smart Home and Internet of Things (IoT) Applications
+* Mobile Authentication
+* Biometrics
 
 News
 ======
