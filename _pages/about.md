@@ -33,7 +33,7 @@ Research Interests
 
 News
 ======
-04/2025 I serve as a panelist for NSF CISE MSI-CNS.
+04/2025 I serve as a panelist for NSF.
 
 03/2025 I served as TPC member for IEEE WF-IoT 2025.
 
