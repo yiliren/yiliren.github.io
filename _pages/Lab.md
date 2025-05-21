@@ -7,7 +7,7 @@ author_profile: true
 
 Ubiquitous Computing and Cybersecurity (UbiSec) Lab
 ------
-Our lab aims to develop novel techniques that integrate wireless technologies, AI, and signal processing to address real-world challenges in ubiquitous computing and cybersecurity. Our research covers a broad spectrum, including innovations in the Internet of Things (IoT), smart homes, mobile healthcare, cyber-physical systems, and AI/LLM + sensing, while also addressing security challenges in mobile and IoT environments.
+Our lab aims to develop novel techniques that integrate wireless sensing, AI/LLM, and security/privacy to address real-world challenges in ubiquitous computing and cybersecurity. Our research covers a broad spectrum, including innovations in the sensing + AI/LLM, Internet of Things (IoT), smart homes, mobile healthcare, and human-computer interaction, while also addressing security and privacy challenges in smart and IoT environments.
 
 Director
 ------
