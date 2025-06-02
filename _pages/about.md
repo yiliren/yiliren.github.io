@@ -33,7 +33,7 @@ Research Interests
 
 News
 ======
-04/2025 I serve as a panelist for NSF.
+04/2025 I served as a panelist for NSF.
 
 03/2025 I served as TPC member for IEEE WF-IoT 2025.
 
@@ -213,6 +213,7 @@ Technical Program Committee (TPC) Membership:
 * 2025 International Conference on Computing, Networking and Communications (ICNC): AI and Machine Learning for Communications and Networking
 
 Reviewer for journals: 
+* ACM Transactions on Internet Technology
 * IEEE Transactions on Biometrics, Behavior, and Identity Science
 * IEEE Transactions on Sustainable Computing
 * IEEE Signal Processing Letters
