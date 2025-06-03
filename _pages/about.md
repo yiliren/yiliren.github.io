@@ -33,6 +33,8 @@ Research Interests
 
 News
 ======
+05/2025 Our work on "Large Language Model-powered Wi-Fi-based Human Activity Recognition" has been accepted by MobiSys 2025 Workshop.
+
 04/2025 I served as a panelist for NSF.
 
 03/2025 I served as TPC member for IEEE WF-IoT 2025.
