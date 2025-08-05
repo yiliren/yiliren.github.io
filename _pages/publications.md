@@ -12,6 +12,7 @@ arXiv preprint arXiv:2502.12421. (\*co-first authors)
 
 Main Publications
 ------
+
 SpaceBeat: Identity-aware Multi-person Vital Signs Monitoring Using Commodity WiFi.   
 Bofan Li, **Yili Ren**, Yichao Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024). - top-tier [csrankings.org](http://csrankings.org/) conference.
@@ -69,6 +70,14 @@ The 21st Australasian Conference on Information Security and Privacy (ACISP 2016
 
 Other Publications
 ------
+[Wi‑Chat: Large Language Model‑powered Wi‑Fi‑based Human Activity Recognition](https://yiliren.github.io/files/Wi_Chat_MobiSys_2025_Workshop%20(1).pdf).      
+**Yili Ren**, Haopeng Zhang, Haohan Yuan, Jingzhe Zhang, Yitong Shen.      
+The 3rd ACM International Workshop on Environmental Sensing Systems for Smart Cities.
+
+[Poster: Large Language Model-powered Wi-Fi-based Human Activity Recognition](https://yiliren.github.io/files/Wi_Chat_mobisys2025_poster%20(1).pdf).      
+**Yili Ren**, Haopeng Zhang, Haohan Yuan, Jingzhe Zhang, Yitong Shen.      
+The 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2025).
+
 A Vision-based Approach for Commodity WiFi Sensing. (poster)   
 **Yili Ren**, Yichao Wang, Yingying Chen, Jie Yang.   
 The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022). - top-tier [csrankings.org](http://csrankings.org/) conference.
