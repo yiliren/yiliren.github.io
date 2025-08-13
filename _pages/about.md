@@ -28,6 +28,7 @@ Research Interests
 * Mobile Healthcare
 * Human-Computer Interaction Applications
 * Smart Home and Internet of Things (IoT) Applications
+* Smart Home and Internet of Things (IoT) Security and Privacy
 * Mobile Authentication
 * Biometrics
 
