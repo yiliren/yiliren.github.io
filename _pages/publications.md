@@ -6,6 +6,10 @@ author_profile: true
 ---
 Preprints
 ------
+[UWB-PostureGuard: A Privacy-Preserving RF Sensing System for Continuous Ergonomic Sitting Posture Monitoring](https://arxiv.org/abs/2508.11115).      
+Haotang Li, Zhenyu Qi, Sen He, Kebin Peng, Sheng Tan, Yili Ren, Tomas Cerny, Jiyue Zhao, Zi Wang.      
+arXiv preprint arXiv:2508.11115.    
+
 [Wi-Chat: Large Language Model Powered Wi-Fi Sensing](https://arxiv.org/abs/2502.12421).      
 Haopeng Zhang\*, **Yili Ren**\*, Haohan Yuan, Jingzhe Zhang, Yitong Shen.      
 arXiv preprint arXiv:2502.12421. (\*co-first authors)      
