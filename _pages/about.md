@@ -34,6 +34,8 @@ Research Interests
 
 News
 ======
+09/2025 Our work "Wi-Hand: 3D Hand Mesh Construction Using WiFi" has been accepted by IMWUT/UbiComp.
+
 09/2025 Our work "UWB-PostureGuard: A Privacy-Preserving RF Sensing System for Continuous Ergonomic Sitting Posture Monitoring" has been accepted by HICSS.
 
 05/2025 Our work on "Large Language Model-powered Wi-Fi-based Human Activity Recognition" has been accepted by the Workshop in MobiSys 2025.
