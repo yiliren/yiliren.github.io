@@ -213,6 +213,7 @@ CGS2060 Computer Fluency, Fall 2018
 Services
 ======
 Technical Program Committee (TPC) Membership: 
+* ICNC'26 AMCN (2026 International Conference on Computing, Networking and Communications (ICNC): AI and Machine Learning for Communications and Networking)
 * IEEE WF-IoT 2025 (2025 IEEE 11th World Forum on Internet of Things (WF-IoT))
 * INFOCOM DeepWireless 2025
 * IEEE INFOCOM 2025 Poster
