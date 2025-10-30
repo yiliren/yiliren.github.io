@@ -34,6 +34,8 @@ Research Interests
 
 News
 ======
+10/2025 I served as a panelist for NSF.
+
 10/2025 I served as TPC member for ICNC 2026 AMCN.
 
 09/2025 Our work "UWB-PostureGuard: A Privacy-Preserving RF Sensing System for Continuous Ergonomic Sitting Posture Monitoring" has been accepted by HICSS.
