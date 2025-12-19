@@ -6,6 +6,10 @@ author_profile: true
 ---
 Preprints
 ------
+[A Survey on Reconfigurable Intelligent Surfaces in Practical Systems: Security and Privacy Perspectives](https://www.arxiv.org/pdf/2512.15754).      
+Ziyu Chen, Yitong Shen, Jingzhe Zhang, Yao Zheng, Yili Ren, Xuyu Wang, Shiwen Mao, Hanqing Guo.      
+arXiv preprint arXiv:2512.15754.    
+
 [UWB-PostureGuard: A Privacy-Preserving RF Sensing System for Continuous Ergonomic Sitting Posture Monitoring](https://arxiv.org/abs/2508.11115).      
 Haotang Li, Zhenyu Qi, Sen He, Kebin Peng, Sheng Tan, Yili Ren, Tomas Cerny, Jiyue Zhao, Zi Wang.      
 arXiv preprint arXiv:2508.11115.    
