@@ -34,7 +34,7 @@ Research Interests
 
 News
 ======
-01/2026 I served as a TPC member for INFOCOM 2026 DeepWireless
+01/2026 I served as a TPC member for INFOCOM 2026 DeepWireless.
 
 10/2025 I served as a panelist for NSF.
 
