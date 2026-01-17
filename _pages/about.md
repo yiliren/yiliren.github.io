@@ -34,9 +34,11 @@ Research Interests
 
 News
 ======
+01/2026 I served as a TPC member for INFOCOM 2026 DeepWireless
+
 10/2025 I served as a panelist for NSF.
 
-10/2025 I served as TPC member for ICNC 2026 AMCN.
+10/2025 I served as a TPC member for ICNC 2026 AMCN.
 
 09/2025 Our work "UWB-PostureGuard: A Privacy-Preserving RF Sensing System for Continuous Ergonomic Sitting Posture Monitoring" has been accepted by HICSS.
 
@@ -44,15 +46,15 @@ News
 
 04/2025 I served as a panelist for NSF.
 
-03/2025 I served as TPC member for IEEE WF-IoT 2025.
+03/2025 I served as a TPC member for IEEE WF-IoT 2025.
 
 02/2025 Our work "[Wi-Chat: Large Language Model Powered Wi-Fi Sensing](https://arxiv.org/abs/2502.12421)" is now available on arXiv.
 
-01/2025 I served as TPC member for INFOCOM DeepWireless 2025.
+01/2025 I served as a TPC member for INFOCOM DeepWireless 2025.
 
-12/2024 I served as TPC member for IEEE INFOCOM 2025 Poster.
+12/2024 I served as a TPC member for the IEEE INFOCOM 2025 Poster.
 
-11/2024 I served as TPC member for ICNC 2025 AMCN.
+11/2024 I served as a TPC member for ICNC 2025 AMCN.
 
 07/2024 Our work on "WiFi-based Vital Signs Monitoring" has been accepted by IMWUT/UbiComp.
 
