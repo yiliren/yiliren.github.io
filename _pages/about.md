@@ -34,6 +34,8 @@ Research Interests
 
 News
 ======
+03/2026 Our work “MURAL-Fi: Multi-User Respiration Authentication Leveraging WiFi” has been accepted by IMWUT/UbiComp.
+
 03/2026 I served as a TPC member for mHealthSec2026 (IEEE/ACM CHASE 2026 workshop).
 
 01/2026 I served as a TPC member for INFOCOM 2026 DeepWireless.
