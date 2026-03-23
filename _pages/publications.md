@@ -20,12 +20,15 @@ arXiv preprint arXiv:2502.12421. (\*co-first authors)
 
 Main Publications
 ------
+[MURAL-Fi: Multi-User Respiration Authentication Leveraging WiFi](https://dl.acm.org/doi/epdf/10.1145/3790111).   
+Bofan Li, Xin Liu, Yichao Wang, **Yili Ren**, Weikuan Yu.   
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2026). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
-SpaceBeat: Identity-aware Multi-person Vital Signs Monitoring Using Commodity WiFi.   
+[SpaceBeat: Identity-aware Multi-person Vital Signs Monitoring Using Commodity WiFi](https://dl.acm.org/doi/epdf/10.1145/3678590).   
 Bofan Li, **Yili Ren**, Yichao Wang, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
-Multi-Subject 3D Human Mesh Construction Using Commodity WiFi.   
+[Multi-Subject 3D Human Mesh Construction Using Commodity WiFi](https://dl.acm.org/doi/epdf/10.1145/3643504).   
 Yichao Wang, **Yili Ren**, Jie Yang.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024). - top-tier [csrankings.org](http://csrankings.org/) conference.
 
