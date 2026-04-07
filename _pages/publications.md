@@ -6,6 +6,10 @@ author_profile: true
 ---
 Preprints
 ------
+[Beamforming Feedback as a Novel Attack Surface for Wi-Fi Physical-Layer Security](https://arxiv.org/pdf/2604.04179).      
+Jingzhe Zhang, Yitong Shen, Ning Wang, Yili Ren.      
+arXiv preprint arXiv:2604.04179.     
+
 [A Survey on Reconfigurable Intelligent Surfaces in Practical Systems: Security and Privacy Perspectives](https://www.arxiv.org/pdf/2512.15754).      
 Ziyu Chen, Yitong Shen, Jingzhe Zhang, Yao Zheng, Yili Ren, Xuyu Wang, Shiwen Mao, Hanqing Guo.      
 arXiv preprint arXiv:2512.15754.    
