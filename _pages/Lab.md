@@ -26,5 +26,7 @@ B.S. Northeastern University (China)
 M.S. University of Washington      
 B.S. University of Minnesota, Twin Cities       
 
-
+**Peiliang Wang** (2026 – Present)     
+M.S. Guangzhou University      
+B.S. Guangzhou University       
 
