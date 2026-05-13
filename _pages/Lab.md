@@ -23,10 +23,8 @@ Ph.D. Students
 B.S. Northeastern University (China)      
 
 **Yitong (Thomas) Shen** (2025 – Present)     
-M.S. University of Washington      
-B.S. University of Minnesota, Twin Cities       
+M.S. University of Washington           
 
 **Peiliang Wang** (2026 – Present)     
-M.S. Guangzhou University      
-B.S. Guangzhou University       
+M.S. Guangzhou University         
 
