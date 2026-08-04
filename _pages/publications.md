@@ -6,6 +6,10 @@ author_profile: true
 ---
 Preprints
 ------
+[Zero-Fi: Zero-Shot Wi-Fi-Based Human Activity Recognition via Contrastive Signal-Language Alignment](https://arxiv.org/pdf/2607.26381).      
+Yitong Shen, Cheng Guo, Peiliang Wang, Jingzhe Zhang, Yi Sheng, Haopeng Zhang, Hongfei Xue, Yili Ren.      
+arXiv preprint arXiv:2607.26381.
+
 [Beamforming Feedback as a Novel Attack Surface for Wi-Fi Physical-Layer Security](https://arxiv.org/pdf/2604.04179).      
 Jingzhe Zhang, Yitong Shen, Ning Wang, Yili Ren.      
 arXiv preprint arXiv:2604.04179.     
