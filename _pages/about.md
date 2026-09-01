@@ -34,6 +34,8 @@ Research Interests
 
 News
 ======
+08/2026 I served as a TPC member for ICNC 2027 AMCN.
+
 04/2026 I served as a panelist for NSF.
 
 03/2026 Our work “MURAL-Fi: Multi-User Respiration Authentication Leveraging WiFi” has been accepted by IMWUT/UbiComp.
