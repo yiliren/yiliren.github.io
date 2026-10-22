@@ -234,6 +234,7 @@ Technical Program Committee (TPC) Membership:
 
 Reviewer for journals: 
 * IEEE Wireless Communications Magazine
+* ACM Transactions on information and System Security
 * IEEE Transactions on Vehicular Technology
 * IEEE Transactions on Industrial Informatics
 * ACM Transactions on Internet Technology
