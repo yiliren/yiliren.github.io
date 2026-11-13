@@ -6,6 +6,10 @@ author_profile: true
 ---
 Preprints
 ------
+[Enabling Versatile Human Sensing through Wi-Fi Beamforming Feedback](https://arxiv.org/pdf/2611.16185).      
+Jingzhe Zhang, Peiliang Wang, Yitong Shen, Ning Wang, Mingzhe Chen, Yili Ren.      
+arXiv preprint arXiv:2611.16185.
+
 [Zero-Fi: Zero-Shot Wi-Fi-Based Human Activity Recognition via Contrastive Signal-Language Alignment](https://arxiv.org/pdf/2607.26381).      
 Yitong Shen, Cheng Guo, Peiliang Wang, Jingzhe Zhang, Yi Sheng, Haopeng Zhang, Hongfei Xue, Yili Ren.      
 arXiv preprint arXiv:2607.26381.
