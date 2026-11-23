@@ -32,6 +32,10 @@ arXiv preprint arXiv:2502.12421. (\*co-first authors)
 
 Main Publications
 ------
+[A Survey on Reconfigurable Intelligent Surfaces Towards Practical Deployments: Security and Privacy Perspectives](https://ieeexplore.ieee.org/abstract/document/11789565).   
+Ziyu Chen, Yitong Shen, Jingzhe Zhang, Yao Zheng, **Yili Ren**, Xuyu Wang, Shiwen Mao, Hanqing Guo.   
+IEEE Communications Surveys and Tutorials (Impact Factor 50.6).
+
 [MURAL-Fi: Multi-User Respiration Authentication Leveraging WiFi](https://dl.acm.org/doi/epdf/10.1145/3790111).   
 Bofan Li, Xin Liu, Yichao Wang, **Yili Ren**, Weikuan Yu.   
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2026). - top-tier [csrankings.org](http://csrankings.org/) conference.
