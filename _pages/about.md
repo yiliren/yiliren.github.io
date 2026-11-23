@@ -36,7 +36,7 @@ News
 ======
 11/2026 Our paper "SAFE-T: A Survey and Framework for Trustworthy Healthcare AI Agents in the Internet of Medical Things" has been accepted for publication in the IEEE Internet of Things Journal.
 
-10/2026 Our paper "A Survey on Reconfigurable Intelligent Surfaces Towards Practical Deployments: Security and Privacy Perspectives" has been accepted for publication in the IEEE Communications Surveys and Tutorials.
+10/2026 Our paper "A Survey on Reconfigurable Intelligent Surfaces Towards Practical Deployments: Security and Privacy Perspectives" has been accepted for publication in the IEEE Communications Surveys and Tutorials (Impact Factor 50.6).
 
 08/2026 I served as a TPC member for ICNC 2027 AMCN.
 
